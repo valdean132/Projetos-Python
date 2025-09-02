@@ -1,0 +1,34 @@
+# Virtual environments
+projects_venv/
+.projects_venv/
+env/
+*.egg-info/
+
+# Python bytecode and cache files
+__pycache__/
+*.pyc
+*.pyd
+*.so
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.swp
+
+# Build and distribution files
+build/
+dist/
+*.egg
+*.whl
+
+# Temporary and log files
+*.log
+*.tmp
+*~
+*.bak
+
+# Environment variables and sensitive data
+.env
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
