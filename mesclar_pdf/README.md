@@ -2,18 +2,6 @@
 
 > Mescle seus PDFs com facilidade e praticidade, rápido e simples
 
-### Ajustes e melhorias
-
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
-
-- [ ]  Criação de Menus
-- [ ]  Opção para adicionar PDFs a serem mesclados
-- [ ]  Histórico de PDFs mesclados
-- [ ]  Opção para salvar PDF mesclado onde deseja
-- [ ]  Interface interativa
-- [ ]  Arquivo .exe para baixar programa
-- [ ]  Disponibilização de API para uso em sistemas
-
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
@@ -53,6 +41,18 @@ Para usar `mesclar_pdf`, siga estas etapas:
     ```
     python main.py
     ```
+
+### Ajustes e melhorias
+
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
+
+- [ ]  Criação de Menus
+- [ ]  Opção para adicionar PDFs a serem mesclados
+- [ ]  Histórico de PDFs mesclados
+- [ ]  Opção para salvar PDF mesclado onde deseja
+- [ ]  Interface interativa
+- [ ]  Arquivo .exe para baixar programa
+- [ ]  Disponibilização de API para uso em sistemas
 
 ## 📫 Contribuindo para `mesclar_pdf`
 
