@@ -32,3 +32,9 @@ dist/
 
 # Jupyter Notebook specific files
 .ipynb_checkpoints/
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.pdf
+*.txt
