@@ -42,7 +42,7 @@ Para usar `mesclar_pdf`, siga estas etapas:
     python main.py
     ```
 
-### Ajustes e melhorias
+## 🔧 Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
